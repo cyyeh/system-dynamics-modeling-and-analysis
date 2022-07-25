@@ -1,5 +1,4 @@
-# system-dynamics-modeling-and-analysis
-System Dynamics Modeling and Analysis course from the University of Bergen
+# [System Dynamics Modeling and Analysis course from the University of Bergen](https://www.uib.no/en/utdanning/evu/150757/system-dynamics-modelling-and-analysis)
 
 ## Overview
 
