@@ -7,3 +7,6 @@
 - Chapters 3 to 7 teach model building and analysis in 5 steps, where each new step builds on the previous ones. 
 - Chapter 8 summarizes the course with respect to model structure, behavior, method, and research philosophy. It points to further studies and gives practical information about the exam.
 
+## Notes
+
+- [Chapter 1: Systems thinking, SD, and problem oriented analysis](https://notability.com/n/0CCOycHHxDos_Q8lGazfVd)
